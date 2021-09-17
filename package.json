@@ -1,0 +1,51 @@
+{
+  "_from": "react-native-unity-view@1.3.3",
+  "_id": "react-native-unity-view@1.3.3",
+  "_inBundle": false,
+  "_integrity": "sha512-HisQxbkf9jcLeaUtD0uiBn65TjkiNtUoJ3rTEf2XgC7rDV7eD3G0HfolFgC+wp3qPZ+Do6G3wn5kEKrc0q+qPA==",
+  "_location": "/react-native-unity-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-unity-view@1.3.3",
+    "name": "react-native-unity-view",
+    "escapedName": "react-native-unity-view",
+    "rawSpec": "1.3.3",
+    "saveSpec": null,
+    "fetchSpec": "1.3.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-unity-view/-/react-native-unity-view-1.3.3.tgz",
+  "_shasum": "20ad94affe5455db54e26f4227e72687dc833faa",
+  "_spec": "react-native-unity-view@1.3.3",
+  "_where": "/Users/akarsh/Projects/UnityDemo",
+  "author": {
+    "name": "xzper"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Integrate unity3d within a React Native app. Add a react native component to show unity. Works on both iOS and Android.",
+  "devDependencies": {
+    "@types/prop-types": "^15.5.2",
+    "@types/react": "^16.0.36",
+    "@types/react-native": "^0.52.8",
+    "typescript": "^2.7.1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "unity"
+  ],
+  "license": "MIT",
+  "main": "out/index.js",
+  "name": "react-native-unity-view",
+  "scripts": {
+    "compile": "node node_modules/typescript/bin/tsc"
+  },
+  "typings": "out/index.d.ts",
+  "version": "1.3.3"
+}

@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml:5:5-7:19
+uses-sdk
+INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+		ADDED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+		ADDED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/akarsh/Projects/UnityDemo/node_modules/react-native-unity-view/android/src/main/AndroidManifest.xml

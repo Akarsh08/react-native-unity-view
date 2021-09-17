@@ -1,0 +1,19 @@
+com/reactnative/unity/view/UnityUtils.java
+ com.reactnative.unity.view.UnityUtils
+ com.reactnative.unity.view.UnityUtils$1
+ com.reactnative.unity.view.UnityUtils$CreateCallback
+com/reactnative/unity/view/UnityNativeModule.java
+ com.reactnative.unity.view.UnityNativeModule
+ com.reactnative.unity.view.UnityNativeModule$1
+com/reactnative/unity/view/UnityView.java
+ com.reactnative.unity.view.UnityView
+com/reactnative/unity/view/UnityViewManager.java
+ com.reactnative.unity.view.UnityViewManager
+ com.reactnative.unity.view.UnityViewManager$1
+ com.reactnative.unity.view.UnityViewManager$2
+com/reactnative/unity/view/BuildConfig.java
+ com.reactnative.unity.view.BuildConfig
+com/reactnative/unity/view/UnityEventListener.java
+ com.reactnative.unity.view.UnityEventListener
+com/reactnative/unity/view/UnityViewPackage.java
+ com.reactnative.unity.view.UnityViewPackage
